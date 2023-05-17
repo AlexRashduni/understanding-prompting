@@ -1,0 +1,3 @@
+[submodule "chatgpt-programming-language"]
+	path = chatgpt-programming-language
+	url = https://github.com/AlexRashduni/chatgpt-programming-language
